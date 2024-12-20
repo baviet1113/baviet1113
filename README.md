@@ -1,11 +1,28 @@
-👋 Hi, I’m @baviet1113
-👀 I’m interested in exploring everything university has to offer! I'm especially excited about clubs, making new friends, and discovering extracurricular activities. I'm also keen to dive deeper into my major and learn practical skills that will help me in my future career.
-🌱 I’m currently learning how to navigate university life, adjusting to the academic demands, and getting involved in campus events.
-💞️ I’m looking to collaborate on academic projects, volunteer initiatives, or events organized by clubs and student organizations.
-😄 Pronouns: He/him
-⚡ Fun fact: I'm a passionate first-year student eager to learn and try new things. 
+<h2> Hi, I'm Tran BA Viet! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Saodo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!---
-baviet1113/baviet1113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub baviet1113](https://img.shields.io/github/followers/baviet1113?label=follow&style=social)](https://github.com/baviet1113)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
